@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Michał Flak
+bio: Software Engineer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Personal website and blog
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,10 +13,10 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/resume-mf.pdf
 
-url: https://sergiokopplin.github.io/indigo
+url: https://mflak.eu
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -30,41 +30,35 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: mflak-eu # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: mflakdev
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: micha%C5%82-flak-875a5a122
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: elo-siema
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: michal@mflak.eu
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  mflak:
+    name: Michał Flak
+    bio: Software engineer
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: mflakdev
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -99,7 +93,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+#show-author: true
 
 # do you want some animations?
 animation: true
