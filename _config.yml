@@ -38,7 +38,7 @@ disqus:
 twitter: mflakdev
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: micha%C5%82-flak-875a5a122
+linkedin: mflak
 # youtube: myyoutube
 # spotify: myspotify
 github: elo-siema
@@ -78,7 +78,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
